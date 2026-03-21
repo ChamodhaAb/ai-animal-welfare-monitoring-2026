@@ -41,10 +41,10 @@ The Colab notebook `animal_welfare_colab.ipynb` contains:
 ![Zebra Detection](images/zebras.JPG)
 
 ### Dashboard Example 1
-![Dashboard Overview](dashboard_images/dashboard_1.png)
+![Dashboard Overview](dashboard_images/dashboard_1.JPG)
 
 ### Dashboard Example 2
-![Dashboard Metrics](dashboard_images/dashboard_2.png)
+![Dashboard Metrics](dashboard_images/dashboard_2.JPG)
 
 ---
 

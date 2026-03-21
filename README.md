@@ -28,6 +28,8 @@ The Colab notebook `animal_welfare_colab.ipynb` contains:
 5. Tracking animals and exporting data to CSV
 6. Calculating behavior and welfare metrics
 
+> **Note:** Data preprocessing, sorting, and aggregation were furthur performed in Power BI for dashboard visualization and insights.
+
 ---
 
 ## Getting Started

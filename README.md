@@ -32,6 +32,21 @@ The Colab notebook `animal_welfare_colab.ipynb` contains:
 
 ---
 
+## Project Examples / Visuals
+
+### Detection Example
+![Rhino Detection](images/rhino.JPG)
+
+![Zebra Detection].(images/zebras.JPG)
+
+### Dashboard Example 1
+![Dashboard Overview](dashboard_images/dashboard_1.png)
+
+### Dashboard Example 2
+![Dashboard Metrics](dashboard_images/dashboard_2.png)
+
+---
+
 ## Getting Started
 
 ### Requirements
